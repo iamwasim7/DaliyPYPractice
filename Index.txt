@@ -1,3 +1,4 @@
 Sr. No  Practice Question 
 01      Simple Loop 
 02      reverseNumber
+03      StudentMarksAnlayzer
