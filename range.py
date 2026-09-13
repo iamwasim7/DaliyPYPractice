@@ -1,0 +1,6 @@
+#Python range
+#The built-in range() function returns an immutable sequence of numbers, commonly used for looping a specific number of times.
+#This set of numbers has its own data type called range.
+x = range(10)
+print(x)
+print(list(x))
