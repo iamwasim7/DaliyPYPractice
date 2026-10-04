@@ -23,6 +23,6 @@ def dfs(node):
         for neighbour in graph[node]:          #Take each neighbour connected to the current node, one by one
             dfs(neighbour)                     #It calls the same DFS function again for the neighbour.
             
-dfs('A')                                      #Start DFS from node A.
+dfs('A')                                       #Start DFS from node A.
         
 
